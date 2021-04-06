@@ -1,28 +1,28 @@
 #!/bin/bash
 
-export GITHUB_USER=""
-export GITHUB_EMAIL=""
+export GITHUB_USER="alexwcrafter"
+export GITHUB_EMAIL="wesjalex@gmail.com"
 
-export device=""
+export device="sofiar"
 
-export ROM=""
-export ROM_DIR=""
-export ROM_VERSION=""
+export ROM="dotos"
+export ROM_DIR="/run/user/1000/gvfs/sftp:host=truenas.local/mnt/Festplatte/rombuilding"
+export ROM_VERSION="11.0"
 export official="false"
 export local_manifest_url=""
-export manifest_url=""
-export rom_vendor_name=""
+export manifest_url="https://raw.githubusercontent.com/moto-sm6xxx/android_device_motorola_sofiar/android-11/framework_manifest.xml"
+export rom_vendor_name="sofiar"
 export branch=""
 export bacon="bacon"
 export buildtype=""
-export clean=""
-export upload_recovery=""
+export clean="clean"
+export upload_recovery="false"
 
-export ccache=""
+export ccache="false"
 export ccache_size=""
 
-export jenkins="false"
+export jenkins="true"
 
-export release_repo=""
+export release_repo="alexwcrafter/releases"
 
 export timezone="UTC"
