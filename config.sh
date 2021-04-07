@@ -6,7 +6,7 @@ export GITHUB_EMAIL="wesjalex@gmail.com"
 export device="sofiar"
 
 export ROM="dotos"
-export ROM_DIR="/run/user/1000/gvfs/sftp:host=truenas.local/mnt/Festplatte/rombuilding"
+export ROM_DIR="/mnt/nas/rombuilding"
 export ROM_VERSION="11.0"
 export official="false"
 export local_manifest_url=""
