@@ -6,7 +6,7 @@ export GITHUB_EMAIL="wesjalex@gmail.com"
 export device="sofiar"
 
 export ROM="dotos"
-export ROM_DIR="/mnt/nas/rombuilding"
+export ROM_DIR="/var/lib/jenkins/nas/rombuilding"
 export ROM_VERSION="11.0"
 export official="false"
 export local_manifest_url=""
