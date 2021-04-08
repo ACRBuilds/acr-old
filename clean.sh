@@ -23,6 +23,6 @@ fi
 
 if [ ! -d "${ROM_DIR}/.repo" ]; then
 echo "Initializing repository..."
-repo init -u "${manifest_url}" -b "${branch}" --depth 1
+repo init -u "${manifest_url}" -b "${branch}" --depth 1 --reference /var/lib/jenkins/nas/rombuilding/DotOS
 fi
 source "${my_dir}"/sync.sh
