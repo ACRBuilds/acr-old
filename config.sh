@@ -6,7 +6,7 @@ export GITHUB_EMAIL="wesjalex@gmail.com"
 export device="sofiar"
 
 export ROM="dotos"
-export ROM_DIR="${WORKSPACE}"
+export ROM_DIR="${WORKSPACE}/rom"
 export ROM_VERSION="11.0"
 export official="false"
 export local_manifest_url="https://github.com/alexwcrafter/local_manifests/raw/dot11/sofiar.xml"
