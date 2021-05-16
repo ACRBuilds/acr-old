@@ -26,3 +26,6 @@ export jenkins="true"
 export release_repo="alexwcrafter/releases"
 
 export timezone="UTC"
+
+export TELEGRAM_CHAT=""
+export TELEGRAM_TOKEN="1783648562:AAFQPMZ8kVZuwRPEZWSoKZnwKUrMluKbKsE"
