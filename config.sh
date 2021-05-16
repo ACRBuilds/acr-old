@@ -26,5 +26,3 @@ export jenkins="true"
 export release_repo="alexwcrafter/releases"
 
 export timezone="UTC"
-
-export TELEGRAM_CHAT="-1001147681687"
