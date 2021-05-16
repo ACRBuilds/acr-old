@@ -10,7 +10,7 @@ git checkout -b "${branch}"
 source config.sh
 export GITHUB_TOKEN=""
 export TELEGRAM_TOKEN=""
-export TELEGRAM_CHAT=""
+export TELEGRAM_CHAT="-1001147681687"
 export BUILD_NUMBER=""
 if [ ! -d "${ROM_DIR}/out" ]; then
     source clean.sh
