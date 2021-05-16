@@ -4,7 +4,7 @@
 
 ## Prerequisites
 
-1. (Optional) Make a Telegram Bot (@BotFather)
+1. (Optional) Make a Telegram Bot ([@BotFather](https://t.me/BotFather))
 
 2. Fork this repository.
 
