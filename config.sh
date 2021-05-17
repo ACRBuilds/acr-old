@@ -15,7 +15,7 @@ export rom_vendor_name="dot"
 export branch="dot11"
 export bacon="bacon"
 export buildtype=""
-export clean="clean"
+export clean="installclean"
 export upload_recovery="false"
 
 export ccache="false"
