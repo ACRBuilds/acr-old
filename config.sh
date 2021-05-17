@@ -14,7 +14,7 @@ export manifest_url="https://github.com/DotOS/manifest"
 export rom_vendor_name="dot"
 export branch="dot11"
 export bacon="bacon"
-export buildtype=""
+export buildtype="installclean"
 export clean="clean"
 export upload_recovery="false"
 
