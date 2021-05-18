@@ -14,7 +14,7 @@ export manifest_url="https://github.com/LineageOS/android"
 export rom_vendor_name="lineage"
 export branch="lineage-18.1"
 export bacon="bacon"
-export buildtype="installclean"
+export buildtype="userdebug"
 export clean="clean"
 export upload_recovery="false"
 
