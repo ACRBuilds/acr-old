@@ -12,4 +12,4 @@ jobs:
         url: "http://jenkins.alexacr.ml:8080"
         user: "AyokaACR"
         token: ${{ secrets.TOKEN }}
-        job: "foobar"
+        job: "dotos-stylus"
