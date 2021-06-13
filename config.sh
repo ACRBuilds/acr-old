@@ -3,9 +3,9 @@
 export GITHUB_USER="alexwcrafter"
 export GITHUB_EMAIL="wesjalex@gmail.com"
 
-export device="sofiar"
+export device="cedric"
 
-export ROM="dotos"
+export ROM="aosp"
 export ROM_DIR="${WORKSPACE}/rom"
 export ROM_VERSION="11.0"
 export official="false"
