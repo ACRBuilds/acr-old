@@ -9,7 +9,7 @@ jobs:
     - name: trigger single Job
       uses: appleboy/jenkins-action@master
       with:
-        url: "http://jenkins.alexacr.ml:8080"
+        url: "http://ayokaacr.de:8080"
         user: "AyokaACR"
         token: ${{ secrets.TOKEN }}
         job: "dotos-stylus_14"
